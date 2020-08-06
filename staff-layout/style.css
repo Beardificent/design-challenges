@@ -77,20 +77,30 @@ a:active {
 /*everything above this line should be fine*/
 
 table{
-    margin: auto;
+    display: block;
+    padding: 10%;
     width: 100%;
     justify-content: center;
 
 }
 
 td{
+
     width: 25%;
 
+}
+.h5 {
+    margin-top: fill;
+}
+
+.trivia{
+    text-align: center;
+    width: 20%;
 }
 
 img{
     display:inline-block;
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
 
 }
