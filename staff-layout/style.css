@@ -80,22 +80,21 @@ table{
     display: block;
     padding: 10%;
     width: 100%;
-    justify-content: center;
 
 }
 
 td{
-
     width: 25%;
 
 }
 .h5 {
-    margin-top: fill;
+    display: block;
 }
 
-.trivia{
+.trivia {
     text-align: center;
     width: 20%;
+    vertical-align: top;
 }
 
 img{
