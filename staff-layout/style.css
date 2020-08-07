@@ -77,13 +77,16 @@ a:active {
 /*everything above this line should be fine*/
 
 table{
-    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+
 }
 
 td {
+
     width: 20%;
-    text-align: center;
-    vertical-align: middle;
 
 }
 img{
