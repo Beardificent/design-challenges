@@ -77,12 +77,12 @@ a:active {
 /*everything above this line should be fine*/
 
 table{
-    margin-right: auto;
-    margin-left: auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 90%;
+    margin-left: 20%;
+    margin-right: 20%;
+
 
 }
 
