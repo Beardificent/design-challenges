@@ -74,7 +74,7 @@ a:active {
     position: relative
 
 }
-/*everything above this line should be fine*/
+/*TABLE*/
 
 table{
     display: flex;
@@ -82,6 +82,7 @@ table{
     align-items: center;
     margin-left: 20%;
     margin-right: 20%;
+    padding-bottom: 100px;
 
 
 }
@@ -105,3 +106,28 @@ img{
 }
 
 
+/* FOOTER*/
+
+footer {
+    height: 100px;
+    background-color: rgba(57, 57, 57, 0.2);
+}
+
+.copyright {
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 35px;
+    color: rgb(50, 50, 50);
+    font-size: 13px;
+}
+
+.bottom {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    word-spacing: 50px;
+    font-size: 13px;
+    text-align: right;
+    padding-right: 200px;
+    box-sizing:border-box;
+}
