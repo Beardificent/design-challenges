@@ -123,15 +123,18 @@ footer {
     padding-top: 35px;
     color: rgb(50, 50, 50);
     font-size: 13px;
+    font-family: 'Archivo Narrow', sans-serif;
 }
 
 .bottom {
     display: inline-block;
     position: relative;
+    font-family: 'Archivo Narrow', sans-serif;
     width: 100%;
-    word-spacing: 50px;
+    word-spacing: 30px;
     font-size: 13px;
     text-align: right;
     padding-right: 200px;
     box-sizing:border-box;
+
 }
