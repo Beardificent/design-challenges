@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07c6e756-0e2d-4c4c-9ceb-858e4e7468ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fiyoTVNRQu6j0e2t6nk4WXl8Qt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07c6e756-0e2d-4c4c-9ceb-858e4e7468ed" name="Default Changelist" comment="" />
+      <created>1596715382512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596715382512</updated>
+      <workItem from="1596715384109" duration="3466000" />
+      <workItem from="1596719225789" duration="3186000" />
+      <workItem from="1596722438842" duration="3346000" />
+      <workItem from="1596726414619" duration="3132000" />
+      <workItem from="1596739679490" duration="5204000" />
+      <workItem from="1596744926050" duration="455000" />
+      <workItem from="1596745398925" duration="849000" />
+      <workItem from="1596790515495" duration="6928000" />
+      <workItem from="1596803929151" duration="6165000" />
+      <workItem from="1596907741267" duration="1420000" />
+      <workItem from="1597041531025" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596745416094">
+      <screen x="60" y="27" width="1306" height="741" />
+    </state>
+    <state x="496" y="155" width="424" height="491" key="FileChooserDialogImpl/60.27.1306.741@60.27.1306.741" timestamp="1596745416094" />
+    <state x="423" y="81" width="569" height="640" key="RollbackChangesDialog" timestamp="1596806314972">
+      <screen x="60" y="27" width="1306" height="741" />
+    </state>
+    <state x="423" y="81" width="569" height="640" key="RollbackChangesDialog/60.27.1306.741@60.27.1306.741" timestamp="1596806314972" />
+    <state x="106" y="27" width="1260" height="697" key="dock-window-1" timestamp="1596725628069">
+      <screen x="60" y="27" width="1306" height="741" />
+    </state>
+    <state x="106" y="27" width="1260" height="697" key="dock-window-1/60.27.1306.741@60.27.1306.741" timestamp="1596725628069" />
+  </component>
+</project>
