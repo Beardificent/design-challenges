@@ -1,0 +1,50 @@
+h1{
+    float: left;
+    margin: 50px auto 100px 50px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.plus{
+    float: right;
+    margin: 50px 50px 100px auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+h5{
+    font-weight: bolder;
+}
+
+.card-body{
+    font-size: 13px;
+
+}
+
+.rating{
+    margin-left: 20px;
+    margin-top: -30px;
+
+}
+
+.fa-star{
+    font-size: 13px;
+}
+.checked {
+    color: orange;
+    font-size: 13px;
+}
+
+p{
+    display: flex;
+}
+
+.comments{
+    float: right;
+    margin-right: 30px;
+    font-size: 10px;
+}
