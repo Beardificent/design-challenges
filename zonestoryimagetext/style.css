@@ -1,0 +1,25 @@
+.col-md-4{
+    margin-top: 100px;
+    margin-left: 125px;
+    font-family: 'Alata', sans-serif;
+}
+
+.card-title{
+    font-weight: bolder;
+}
+
+.card-text{
+    font-size: 18px;
+    color: gray;
+    font-weight: lighter;
+    margin-bottom: 30px;
+}
+
+.btn-primary{
+    opacity: 70%;
+    font-size: small;
+}
+
+img{
+    max-width: 500px;
+}
