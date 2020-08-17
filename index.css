@@ -6,3 +6,11 @@
 .list{
     border-left: 2px dashed hotpink;
 }
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}

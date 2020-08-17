@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d61ffd5-80a4-427c-bc15-ece3c4276e13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zonestoryimagetext/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zonestoryimagetext/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zonestoryimagetext/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/zonestoryimagetext/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="70879173-9c7d-4682-87fe-759b6857ee8e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +37,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1fiQuV3iRP89tViQMGKoleESEeY" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1gDUQsaK8jiQhIdqP0CtbXYjnPZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,26 +50,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zonestoryimagetext" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d61ffd5-80a4-427c-bc15-ece3c4276e13" name="Default Changelist" comment="" />
-      <created>1596698655761</created>
+      <changelist id="70879173-9c7d-4682-87fe-759b6857ee8e" name="Default Changelist" comment="" />
+      <created>1597648643774</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596698655761</updated>
-      <workItem from="1596698657956" duration="14777000" />
-      <workItem from="1596715368833" duration="20000" />
-      <workItem from="1596745419942" duration="2915000" />
-      <workItem from="1596783004983" duration="1210000" />
-      <workItem from="1597135242472" duration="3462000" />
-      <workItem from="1597145160770" duration="2939000" />
-      <workItem from="1597648505681" duration="4000" />
-      <workItem from="1597653712205" duration="2591000" />
+      <updated>1597648643774</updated>
+      <workItem from="1597648645317" duration="5608000" />
     </task>
     <servers />
   </component>
@@ -92,12 +79,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1597655606725">
+    <state x="496" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1597653708658">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state x="496" y="155" width="424" height="491" key="FileChooserDialogImpl/60.27.1306.741@60.27.1306.741" timestamp="1597655606725" />
+    <state x="496" y="155" width="424" height="491" key="FileChooserDialogImpl/60.27.1306.741@60.27.1306.741" timestamp="1597653708658" />
   </component>
 </project>
